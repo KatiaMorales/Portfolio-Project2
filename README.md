@@ -2,7 +2,7 @@
 El objetivo de este proyecto fue construír dashboards con la herramienta de Power BI que ayudaron a identificar qué Municipios de México debían tener una prima más alta de acuerdo al número de incidentes delictivos y accidentes automovilísticos reportados en INEGI.
 
 ## 🚨🚨 NOTA 🚨🚨
-No pude agregar el dashboard de Power BI porque es muy pesado. Si gustan visualizarlo, contáctenme por correo. Muchas gracias. 
+No pude agregar el dashboard en Power BI porque es un archivo muy pesado, por eso lo convertí en PDF para que puedan visualizarlo.
 
 ## Software used 💻
 Microsoft Excel |
